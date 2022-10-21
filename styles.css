@@ -1,0 +1,18 @@
+img {
+  border-color: black;
+}
+
+header {
+  display: block;
+}
+
+body {
+  padding: 4.5rem;
+  background-color: #D1E8E2;
+}
+
+.carousel-control-next,
+.carousel-control-prev
+  {
+  filter: invert(100%);
+}
